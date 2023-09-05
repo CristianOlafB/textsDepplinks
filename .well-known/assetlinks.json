@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.digitaldata.bumbru",
+    "sha256_cert_fingerprints":
+    ["31:65:FB:26:ED:EA:2F:19:DB:DB:A8:CF:44:F1:45:EF:59:BE:11:D0:EC:37:07:D2:B7:7D:50:2C:6C:C6:92:72"]
+  }
+}]
